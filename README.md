@@ -14,4 +14,6 @@ source ./venv/bin/activate
 Install all necessary libraries by running:
 pip install pip install pandas numpy scikit-learn surprise faker
 
-5. execute the code
+5.Running the Prediction Notebook
+Open and execute the my_project.ipynb Jupyter Notebook cell by cell to run the code. (run cell 1 first as it will generate the dataset and database, then run the second cell to run the book rec).
+
