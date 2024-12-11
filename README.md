@@ -12,6 +12,6 @@ source ./venv/bin/activate
 
 4. Installing Required Libraries
 Install all necessary libraries by running:
-pip install pandas faker numpy
+pip install pip install pandas numpy scikit-learn surprise faker
 
-5. Run the first blockt to populate the dataset and database, then the second to run the actual Book Reccomendation.
+5. execute the code
